@@ -1,4 +1,4 @@
-# [BDReborn V6 (Final Version)](https://telegram.me/BDReborn)
+# [TACKPARTG770 V6 (Final Version)](https://telegram.me/TACKPARTG770)
 
 **An advanced and powerful administration bot based on NEW TG-CLI
 
@@ -19,8 +19,8 @@
 
 **If use BDHelper put your helper bot Username Without @ in bot.lua, line 22
 
-```sh
-# Let's install the bot.
+`` TACKPARTG770`ش
+# بوت را نصب کنید
 cd $HOME
 git clone https://github.com/BeyondTeam/BDReborn.git
 cd BDReborn
@@ -37,11 +37,11 @@ screen ./autobd.sh
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
+cd $HOME && git clone https://github.com/BeyondTeam/TACKPARTG770.git && cd BDReborn && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
 
 OR
 
-cd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn && chmod +x beyond.sh && ./beyond.sh install && chmod 777 autobd.sh && screen ./autobd.sh
+cd $HOME && git clone https://github.com/BeyondTeam/TACKPARTG770.git && cd BDReborn && chmod +x beyond.sh && ./beyond.sh install && chmod 777 autobd.sh && screen ./autobd.sh
 ```
 
 * * *
